@@ -1,0 +1,6 @@
+pandas
+numpy
+plotly==4.5.4 
+seaborn 
+matplotlib
+statsmodels
